@@ -1,51 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Arkilanian</title>
-    <link>https://example.com/</link>
+    <link>https://aarkilanian.github.io/</link>
     <description>Recent content on Alex Arkilanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Copyright © 2020, Alex Arkilanian; all rights reserved.</copyright>
     <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aarkilanian.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/about/</link>
+      <link>https://aarkilanian.github.io/about/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>Please reach out if you have any questions or want to have a chat.</description>
-    </item>
-    
-    <item>
-      <title>Landscape &amp; Stream Ecology</title>
-      <link>https://example.com/research/streams/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/research/streams/</guid>
-      <description></description>
+      <guid>https://aarkilanian.github.io/about/</guid>
+      <description>Please reach out with one of the methods below in the footer if you have any questions or want to have a chat.
+You can also find me in person at:
+Stewart Biology Building, office S3/20
+McGill University
+1205 Avenue Docteur Penfield
+Montreal, Quebec, Canada, H3A 1B1</description>
     </item>
     
     <item>
       <title>Population Stability</title>
-      <link>https://example.com/research/ews/</link>
+      <link>https://aarkilanian.github.io/research/ews/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/ews/</guid>
-      <description>It&#39;s increasingly important to monitor endangered populations to predict when they are approaching a collapse. If conservationists can predict the collapse of populations they can intervene to save populations from extinction.</description>
+      <guid>https://aarkilanian.github.io/research/ews/</guid>
+      <description>Quantifying the stability of ecosystems is central to ensuring their continued provisioning of benefits for humanity. Moreover, a understanding of stability in a system allows conservationists to prescribe when systems are near a transition. My work in early warning signals brings us one step closer to predicting the local extinction of populations using abundance and trait time series data.</description>
     </item>
     
     <item>
-      <title>Visual Ecology &amp; Evolution</title>
-      <link>https://example.com/research/guppy/</link>
+      <title>Spatial Stream Ecology</title>
+      <link>https://aarkilanian.github.io/research/streams/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/guppy/</guid>
-      <description></description>
+      <guid>https://aarkilanian.github.io/research/streams/</guid>
+      <description>Rivers and streams are among the most threatened ecosystems today faced with increased land use modification and a changing climate. However, these systems provide essential benefits to humanity and hold unique biodiversity. With increasing road and hydroelectric infrastructure the connectivity of these systems is under stress. Ensuring fish can complete regular migrations related to their life history as well as range shifts in response to climate change is the motivation behind my work in rivers. I aim to quantify the connectivity of the major river systems of the St. lawrence Lowlands for fish.</description>
+    </item>
+    
+    <item>
+      <title>Visual Ecology</title>
+      <link>https://aarkilanian.github.io/research/guppy/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarkilanian.github.io/research/guppy/</guid>
+      <description>Animals display an astounding range of colouration and colour patterns. This colouration can serve animals in a number of important ways, most notably in diverse modes of communication both within and between species. Some colour patterns are bright and contrast strongly with their background to create highly conspicuous colouration. This form of intense colouration can serve between species as a warning signal to potential predators that an organism is unpalatable, a strategy known as aposematic colouration, or, alternatively, an organism can mimic other unpalatable species to reap the same benefits, a strategy known as Batesian mimicry.</description>
     </item>
     
   </channel>

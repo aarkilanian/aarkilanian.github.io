@@ -1,75 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://aarkilanian.github.io/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://aarkilanian.github.io/about/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/research/streams/</loc>
+    <loc>https://aarkilanian.github.io/research/ews/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/research/ews/</loc>
+    <loc>https://aarkilanian.github.io/research/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/research/</loc>
+    <loc>https://aarkilanian.github.io/research/streams/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/research/guppy/</loc>
+    <loc>https://aarkilanian.github.io/research/guppy/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/hugo-authors/</loc>
+    <loc>https://aarkilanian.github.io/authors/hugo-authors/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/authors/jane-smith/</loc>
+    <loc>https://aarkilanian.github.io/authors/jane-smith/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/authors/john-doe/</loc>
+    <loc>https://aarkilanian.github.io/authors/john-doe/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/authors/</loc>
+    <loc>https://aarkilanian.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://aarkilanian.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://aarkilanian.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/cv/</loc>
+    <loc>https://aarkilanian.github.io/cv/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://aarkilanian.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://aarkilanian.github.io/tags/</loc>
   </url>
   
 </urlset>
