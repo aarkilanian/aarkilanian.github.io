@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Arkilanian</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Alex Arkilanian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Please reach out if you have any questions or want to have a chat.</description>
+    </item>
+    
+    <item>
+      <title>Landscape &amp; Stream Ecology</title>
+      <link>https://example.com/research/streams/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/research/streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Stability</title>
+      <link>https://example.com/research/ews/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/research/ews/</guid>
+      <description>It&#39;s increasingly important to monitor endangered populations to predict when they are approaching a collapse. If conservationists can predict the collapse of populations they can intervene to save populations from extinction.</description>
+    </item>
+    
+    <item>
+      <title>Visual Ecology &amp; Evolution</title>
+      <link>https://example.com/research/guppy/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/research/guppy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
