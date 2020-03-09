@@ -33,26 +33,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/authors/hugo-authors/</loc>
   </url>
   
@@ -69,6 +49,10 @@
   </url>
   
   <url>
+    <loc>https://example.com/blog/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/categories/</loc>
   </url>
   
@@ -82,6 +66,10 @@
   
   <url>
     <loc>https://example.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
   </url>
   
 </urlset>
