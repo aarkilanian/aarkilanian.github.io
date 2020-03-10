@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Alex Arkilanian</title>
-    <link>https://example.com/tags/index/</link>
+    <link>https://aarkilanian.github.io/tags/index/</link>
     <description>Recent content in index on Alex Arkilanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Copyright © 2020, Alex Arkilanian; all rights reserved.</copyright>
     
-	<atom:link href="https://example.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aarkilanian.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research</title>
-      <link>https://example.com/research/</link>
+      <link>https://aarkilanian.github.io/research/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
+      <guid>https://aarkilanian.github.io/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://example.com/blog/</link>
+      <link>https://aarkilanian.github.io/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/</guid>
+      <guid>https://aarkilanian.github.io/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>https://example.com/cv/</link>
+      <link>https://aarkilanian.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/cv/</guid>
-      <description>You can also download a pdf version of my CV.
-Publications: Arkilanian, A. A. et al. (2020) Effect of time series length and resolution on forecasting population collapse with early warning signals.
-Presentations 2020 - IALE conference oral presentation
-&amp;ldquo;Quantifying connectivity for fish in the St. Lawrence Lowlands&amp;rdquo;
-2019 - QCBS conference poster presentation
-&amp;ldquo;Quantifying connectivity for fish in the St. Lawrence Lowlands&amp;rdquo;
-2018 - QCBS conference poster presentation
-&amp;ldquo;The effect of time series length and resolution on forecasting population collapse&amp;rdquo;</description>
+      <guid>https://aarkilanian.github.io/cv/</guid>
+      <description>Here is a link to my Google scholar profile
+Publications Arkilanian, A. A., Clements, C. F., Ozgul, A., Baruah, G. (2020) Effect of time‐series length and resolution on abundance‐ and trait‐based early warning signals of population declines. Ecology
+Link - PDF
+Presentations 2020 (oral presentation)
+A connectivity analysis of the aquatic ecosystems of the Saint Lawrence Lowlands
+IALE conference, Toronto, Ontario, Canada
+2019 (poster presentation) ~2nd prize winner~
+A connectivity analysis of the aquatic ecosystems of the Saint Lawrence Lowlands</description>
     </item>
     
   </channel>
