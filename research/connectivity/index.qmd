@@ -1,0 +1,13 @@
+---
+title: "Aquatic connectivity"
+author:
+  - name: Lena Davidson
+  - name: Silvia P. Canelón
+    orcid: 0000-0003-1709-1394
+  - name: Mary Regina Boland
+description: 'JMIR Medical Informatics'
+subtitle: 'EHR study describing an MWAS approach to explore connections between prescription medication exposure and the risk of multiple gestation pregnancies'
+abstract: ''
+image: test.png
+---
+

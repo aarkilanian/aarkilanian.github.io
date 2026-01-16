@@ -1,0 +1,21 @@
+---
+title: "Research"
+description: |
+  This is home for my research projects, each linked with accompanying preprints, posters, and/or news pieces.
+listing: 
+  contents: 
+    - "**/index.qmd"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, image]
+  image-align: left
+  
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+---
+
+<br>
