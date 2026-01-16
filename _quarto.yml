@@ -2,18 +2,34 @@ project:
   type: website
 
 website:
-  title: "AcademicSite"
+  title: "Alex Arkilanian"
+  description: "Alex Arkilanian"
   navbar:
+    tools:
+    - icon: github
+      href: https://www.github.com/aarkilanian
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Research
+        href: research/index.qmd
+      - text: CV
+        href: CV/index.qmd
+      - text: Freeflow Consulting
+        href: https://www.freeflownature.ca/
+        
+  page-footer: 
+    left: >-
+     &#169; 2026 Alex Arkilanian &#8729; Made with [Quarto](https://quarto.org)
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
+    theme: 
+      - cosmo
+      - assets/silvia-theme-light.scss
+      - assets/silvia/colors-light.scss
+      - assets/silvia/fonts.scss
+    highlight-style:
+      assets/silvia/a11y-light.theme
+    code-link: true
+    pagetitle: "{{< meta title >}}"
+    lightbox: true
 
