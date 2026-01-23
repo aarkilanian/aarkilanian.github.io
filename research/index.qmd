@@ -1,7 +1,5 @@
 ---
-title: "Research"
-description: |
-  This is home for my research projects, each linked with accompanying preprints, posters, and/or news pieces.
+title: "Projects"
 listing: 
   contents: 
     - "**/index.qmd"

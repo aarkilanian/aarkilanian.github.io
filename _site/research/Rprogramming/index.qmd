@@ -1,0 +1,13 @@
+---
+title: "Open science"
+subtitle: 'R and other languages have created an unprecedented opportunity for sharing reproducible analysis pipelines. But, open science principles are needed to ensure these remain accessible and useful'
+image: test.png
+---
+
+**R development**  
+
+I am a passionate R programmer. I share knowledge. I train. I workshop.
+
+**Open science**  
+
+I have been involved in multiple workshops aimed at exposing students in Ecology to the multiple facets of open science. This includes trainings on open science as a whole to introduce graduate students to these concepts. This also includes more advanced workshops aimed at evaluating how open Ecology is as a discipline and ways in which it can be improved.

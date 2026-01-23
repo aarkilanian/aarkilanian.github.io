@@ -1,16 +1,10 @@
 [
   {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/connectivity/index.html",
-      "/projects/detritus/index.html"
-    ]
-  },
-  {
     "listing": "/research/index.html",
     "items": [
+      "/research/connectivity/index.html",
       "/research/detritus/index.html",
-      "/research/connectivity/index.html"
+      "/research/Rprogramming/index.html"
     ]
   }
 ]

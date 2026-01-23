@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Alex Arkilanian",
-    "section": "",
-    "text": "I am a researcher, R educator, and data journalist with a love for community. My research leverages electronic health record and spatial data to study the intersection of health equity and urban nature. My journalism and community projects value the partnership between open source tools and data literacy as a way to build power and effect change.\nLearn more about me →"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "conn1\n\n\nEHR study describing an MWAS approach to explore connections between prescription medication exposure and the risk of multiple gestation pregnancies\n\n\n\n\n\n\n\n\n\n\ndet1\n\n\nsome others\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,10 +7,38 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alex Arkilanian",
+    "section": "",
+    "text": "Hello and welcome! I am an ecologist, R developper, and consultant with a love for complex problem solving. Currently, I’m a PhD candidate in the Ecosystem Ecology Lab at Memorial University in St. John’s, Newfoundland and Labrador, Canada. There, I spend my days clarifying the role of dead organic matter in providing sustaining nutrition to ecosystems across time and space. Outside my PhD research I have developed novel methods to estimate the impact of barriers on fish movement. I am also passionate about R programming and open science for which I have led multiple trainings and workshops. You can read more about these activites in Research."
+  },
+  {
     "objectID": "research/index.html",
     "href": "research/index.html",
-    "title": "Research",
+    "title": "Projects",
     "section": "",
-    "text": "Example 2\n\n\nsome others\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExample1\n\n\nEHR study describing an MWAS approach to explore connections between prescription medication exposure and the risk of multiple gestation pregnancies\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Aquatic connectivity\n\n\nAquatic connectivity is an important facet of freshwater conservation. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDetrital dynamics\n\n\nNutrition recycled from the death of others can be essential to the maintenance of ecosystem functioning and biodiversity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen science\n\n\nR and other languages have created an unprecedented opportunity for sharing reproducible analysis pipelines. But, open science principles are needed to ensure these remain accessible and useful\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/connectivity/index.html",
+    "href": "research/connectivity/index.html",
+    "title": "Aquatic connectivity",
+    "section": "",
+    "text": "Estimation methods\nI developed novel methods to estimate the fragmentation of watersheds by aquatic barriers.\nCommunity-level connectivity\nI developed methods to quantify connectivity for a large portfolio of species.\nInvasive species\nRecent work showing that native connectivity restoration can be intimately linked to invasive species spread and establishment."
+  },
+  {
+    "objectID": "research/detritus/index.html",
+    "href": "research/detritus/index.html",
+    "title": "Detrital dynamics",
+    "section": "",
+    "text": "Temporal dynamics\nSeasonality is changing across the world with advanced climate change.\nSpatial dynamics\nSpatially variable subsidization of habitat patches leads to resource heterogeneity.\nFood web complexity\nFully resolved food webs are becoming more and more common."
+  },
+  {
+    "objectID": "research/Rprogramming/index.html",
+    "href": "research/Rprogramming/index.html",
+    "title": "Open science",
+    "section": "",
+    "text": "R development\nI am a passionate R programmer. I share knowledge. I train. I workshop.\nOpen science\nI have been involved in multiple workshops aimed at exposing students in Ecology to the multiple facets of open science. This includes trainings on open science as a whole to introduce graduate students to these concepts. This also includes more advanced workshops aimed at evaluating how open Ecology is as a discipline and ways in which it can be improved."
   }
 ]

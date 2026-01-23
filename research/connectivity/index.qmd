@@ -1,13 +1,17 @@
 ---
 title: "Aquatic connectivity"
-author:
-  - name: Lena Davidson
-  - name: Silvia P. Canelón
-    orcid: 0000-0003-1709-1394
-  - name: Mary Regina Boland
-description: 'JMIR Medical Informatics'
-subtitle: 'EHR study describing an MWAS approach to explore connections between prescription medication exposure and the risk of multiple gestation pregnancies'
-abstract: ''
+subtitle: 'Aquatic connectivity is an important facet of freshwater conservation. '
 image: test.png
 ---
 
+**Estimation methods**  
+
+I developed novel methods to estimate the fragmentation of watersheds by aquatic barriers.
+
+**Community-level connectivity**  
+
+I developed methods to quantify connectivity for a large portfolio of species.
+
+**Invasive species**
+
+Recent work showing that native connectivity restoration can be intimately linked to invasive species spread and establishment.

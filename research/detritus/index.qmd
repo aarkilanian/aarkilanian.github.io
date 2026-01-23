@@ -1,13 +1,17 @@
 ---
-title: "Detrital dynamics in ecosystems"
-author:
-  - name: Other Davidson
-  - name: Yaow P. Canelón
-    orcid: 0000-0003-1709-1394
-  - name: Mary Regina Boland
-description: 'other things'
-subtitle: 'some others'
-abstract: ''
+title: "Detrital dynamics"
+subtitle: 'Nutrition recycled from the death of others can be essential to the maintenance of ecosystem functioning and biodiversity'
 image: poop.jpeg
 ---
 
+**Temporal dynamics**  
+
+Seasonality is changing across the world with advanced climate change. 
+
+**Spatial dynamics**  
+
+Spatially variable subsidization of habitat patches leads to resource heterogeneity. 
+
+**Food web complexity**  
+
+Fully resolved food webs are becoming more and more common. 

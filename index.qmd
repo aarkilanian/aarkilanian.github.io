@@ -2,15 +2,13 @@
 title: "Alex Arkilanian"
 pagetitle: "Alex Arkilanian"
 subtite: "PhD Candidate at Memorial University"
+image: assets/prof_2025_round.png
 
 about:
   template: solana
-  image-width: 28em
+  image-width: 22em
   id: hero-heading
   links:
-    - text: "{{< fa brands bluesky >}}"
-      aria-label: "Bluesky"
-      href: https://bsky.app/profile/silviacanelon.com
     - icon: linkedin
       aria-label: "LinkedIn"
       href: https://linkedin.com/in/spcanelon
@@ -18,17 +16,31 @@ about:
       aria-label: "GitHub"
       href: https://github.com/spcanelon
     - text: "{{< ai orcid >}}"
+      aria-label: "Orcid"
       href: https://orcid.org/0000-0003-1709-1394
     - text: "{{< ai google-scholar >}}"
       aria-label: "Google Scholar"
       href: https://scholar.google.com/citations?user=GAzkvpcAAAAJ&hl=en&oi=ao
-    - text: "{{< fa envelope >}}"
-      aria-label: Newsletter
-      href: https://buttondown.com/spcanelon
 page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+
+header-includes: >
+  <link rel="stylesheet" href="index.css">
+resources:
+  - index.css
 ---
+<br><br>
 
-I am a researcher, R educator, and data journalist with a love for community. My **research** leverages electronic health record and spatial data to study the intersection of health equity and urban nature. My **journalism** and **community** projects value the partnership between open source tools and data literacy as a way to build power and effect change.
+::: {#hero-heading}
 
-[Learn more about me &rarr;](/about){.about-links .subtitle}
+Hello and welcome! I am an ecologist, R developper, and consultant with a love for complex problem solving. Currently, I'm a PhD candidate in the [Ecosystem Ecology Lab](https://shawnleroux.wixsite.com/lerouxlab) at Memorial University in St. John's, Newfoundland and Labrador, Canada. There, I spend my days clarifying the role of dead organic matter in providing sustaining nutrition to ecosystems across time and space. Outside my PhD research I have developed novel methods to estimate the impact of barriers on fish movement. I am also passionate about R programming and open science for which I have led multiple trainings and workshops. You can read more about these activites in [Research](research).
+
+<br>
+
+:::
+<!-- hero-heading -->
 

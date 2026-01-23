@@ -24,11 +24,7 @@ format:
   html:
     theme: 
       - cosmo
-      - assets/silvia-theme-light.scss
-      - assets/silvia/colors-light.scss
-      - assets/silvia/fonts.scss
-    highlight-style:
-      assets/silvia/a11y-light.theme
+    css: index.css
     code-link: true
     pagetitle: "{{< meta title >}}"
     lightbox: true
